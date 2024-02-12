@@ -30,25 +30,21 @@ The purposes of this organization shall be:
 The constitution and by-laws of the National Speleological Society shall be binding on the Niagara Frontier Grotto. Any action inconsistent therewith shall be null and void.
 
 ## ARTICLE IV
-All members of the National Speleological Society shall, upon payment of dues, be admitted as Regular members of this grotto without prior endorsement.
-Regular members may participate in any official grotto function, cast ballots, and hold elective office.
+All members of the National Speleological Society shall, upon payment of dues, be admitted as members of this grotto without prior endorsement.
+Grotto members may participate in any official grotto function, cast ballots, and hold elective office.
 
 ## ARTICLE V
-Associate members are not members of the National Speleological Society and, therefore, cannot vote in matters affecting the Society nor hold grotto office.
-Associate members shall pay full dues, and may participate in any official grotto activity, and may cast ballots for grotto business.
+Removed
 
 ## ARTICLE VI
-Honorary membership is a status granted to former members who have given substantial time to the grotto. Other consideration for honorary status is for people who due to distance or changes in circumstance are unable to actively participate, but wish to stay in communication with the grotto.
-Any member can nominate honorary members, but the membership can only be awarded through a majority vote of current members.
-These members may cast ballots for grotto business, but are not responsible for paying dues.
+Removed
 
 ## ARTICLE VII
 The elected officers of the Niagara Frontier Grotto shall consist of a Chairman, a Vice-Chairman, a Secretary, and a Treasurer.
-These officers shall be elected from regular members and by the Regular, Associate, and Honorary members of this grotto.
 
 ## ARTICLE VIII
 This grotto shall be governed by an Executive Committee consisting of its elected officers. This committee shall have power to manage business, formulate by-laws, call meetings, raise funds, to appoint committeemen and non-elected officers, and perform all other necessary functions of this grotto.
-Actions of the Executive Committee may be overruled by a 2/3 majority vote of all the Regular, Associate and Honorary members present at the next regular meeting.
+Actions of the Executive Committee may be overruled by a 2/3 majority vote of all grotto members present at the next regular meeting.
 
 ## ARTICLE IX
 In the event that this grotto dissolves, becomes defunct, or is transferred to inactive status by the National Speleological Society, all property donated or loaned to the grotto by the National Speleological Society shall revert to the National Speleological Society.
@@ -56,9 +52,9 @@ At the same time, all grotto property donated by individual members shall revert
 
 ## ARTICLE X
 Proposed amendments to this constitution shall be put in writing, and presented at a regular meeting of this grotto.
-All regular, associate, and honorary members shall be informed that the amendment will be voted on at the next regular meeting.
-If the Executive Committee has approved the amendment, a majority vote of Regular, Associate and Honorary grotto members is required for adoption.
-If it has rejected the amendment, a 2/3 majority vote of all Regular, Associate, honorary members is required for adoption.
+All grotto members shall be informed that the amendment will be voted on at the next regular meeting.
+If the Executive Committee has approved the amendment, a majority vote of grotto members is required for adoption.
+If it has rejected the amendment, a 2/3 majority vote of all grotto members is required for adoption.
 Mailed ballots, signed and received in time for the meeting, will be accepted.
 
 ## ARTICLE XII
@@ -75,22 +71,22 @@ BY-LAWS OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
 \end{center}
 
 I.  **Membership and Dues**: Memberships in this grotto shall run from January 1st to December 31st.
-Regular dues shall be determined by the executive committee upon approval by Regular and Associate members and be payable during December or January of the following year.
+Regular dues shall be determined by the executive committee upon approval by grotto members and be payable during December or January of the following year.
 The dues may be pro-rated for the first year for members that join in the middle of the year.
 All members shall provide name, address and emergency contact information upon payment of dues.\
 \
 If members fail to pay by the March meeting, their status in the grotto will become inactive.
 Inactive members can no longer receive mailings and are ineligible to vote.
-Receipt of dues places inactive members back to Regular or Associate status.\
+Receipt of dues places inactive members back to active status.\
 \
 Members may be dropped from action of the Executive Committee for any of the following actions: Deliberate vandalism in a cave, deliberately dangerous action or repetitive negligence during a grotto activity, violation of an N.S.S. or grotto by-law, and non-payment of dues.
-This action is not final until passed by a 2/3 majority vote of a quorum of regular, associate, and honorary members.
+This action is not final until passed by a 2/3 majority vote of a quorum of grotto members.
 
 II.  **Meetings and Voting**: All members of this grotto shall receive a written or spoken report of the time and place of grotto meetings or activities, at least two weeks in advance of the event.
 The time and place of the meetings shall be determined by the Executive Committee.
-A meeting may also be called by a petition signed by 2/3 of the Regular, Associate and Honorary members of this grotto.
+A meeting may also be called by a petition signed by 2/3 of members of this grotto.
 Meetings shall be held at least 10 times a year.
-For voting purposes, a quorum shall be at least seven (7) voting members present at a meeting, scheduled in accordance with the club by-laws, and with issues decided by a simple majority of those present.
+For voting purposes, a quorum shall be at least seven (7) members present at a meeting, scheduled in accordance with the club by-laws, and with issues decided by a simple majority of those present.
 This does not supersede the voting requirements to make changes to the constitution or by-laws.
 Grotto business requiring a vote may be passed by a simple majority unless otherwise noted.
 If a vote is called, and there are not enough members present to consist of a quorum, the vote will be postponed to the next meeting.
@@ -100,7 +96,7 @@ Roberts Rules of Order shall govern any items not specifically covered by the co
 III.  **The Executive Committee**:
   - a. **Qualifications of Officers**: The officers of this grotto shall be elected during the first meeting in December and shall take office January 1st.
 Elected officers shall not be elected to greater than three successive terms.
-They must also be Regular members of the Niagara Frontier Grotto and be able to attend meetings regularly.
+They must also be members of the Niagara Frontier Grotto and be able to attend meetings regularly.
 
   - b. **Duties of the Chairman**:
     - i.  Preside at business meetings of both the grotto and the Executive Committee.
@@ -123,7 +119,7 @@ They must also be Regular members of the Niagara Frontier Grotto and be able to 
 
   - e. **Duties of the Treasurer**:
     - i. Maintain a detailed record of all grotto income and expenditures.
-    - ii. Discharge grotto funds as directed by the Executive Committee or a 2/3 majority vote of the Regular, Associate and Honorary members.
+    - ii. Discharge grotto funds as directed by the Executive Committee or a 2/3 majority vote of members.
     - iii. See that receipts of expenditures are kept in grotto files, and a financial report is placed in the grotto files every December.
     - iv. Make a financial report at each regular grotto meeting, and, as requested, at meetings of the Executive Committee.
 

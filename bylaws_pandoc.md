@@ -2,6 +2,7 @@
 # title: By-laws of the Niagara Frontier Grotto
 # Transposed to pandoc by Scott Conway, 2024-02-03
 output: pdf_document
+geometry: margin=2.54cm
 header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
@@ -10,17 +11,15 @@ header-includes:
   - \cfoot{Revised 3/2008}
 
 ---
-\begin{center}
-
-CONSTITUTION OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
-
-\end{center}
+# CONSTITUTION OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
+\vspace{12pt}
 
 ## ARTICLE I
 The name of this organization shall be the Niagara Frontier Grotto of the National Speleological Society.
 
 ## ARTICLE II
 The purposes of this organization shall be:
+
 1. Promote interest in and to advance in all ways the science of speleology.
 2. Protect caves and their natural contents.
 3. Cooperate with, promote and organize the activities of the National Speleological Society and its members in western New York and the Niagara Frontier.
@@ -68,11 +67,8 @@ This Constitution shall become effective upon approval by the Niagara Frontier G
 
 \newpage
 
-\begin{center}
-
-BY-LAWS OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
-
-\end{center}
+# BY-LAWS OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
+\vspace{12pt}
 
 I.  **Membership and Dues**: Memberships in this grotto shall run from January 1st to December 31st.
 Regular dues shall be determined by the executive committee upon approval by Regular and Associate members and be payable during December or January of the following year.
@@ -108,6 +104,8 @@ They must also be Regular members of the Niagara Frontier Grotto and be able to 
     - iii. Serve as coordinator for grotto activities.
     - iv. In charge of grotto correspondence and other files which are not assigned to other officers or committees.
     - v. Submit all necessary reports required by the National Speleological Society, and shall maintain close contact with that Society.
+
+\newpage   <!-- TODO don't hard-code newpages - instead figure out how to use \pagebreak and sections -->
 
   - c. **Duties of the Vice-Chairman**:
     - i. Assume the duties of the Chairman in case of his/her absence.

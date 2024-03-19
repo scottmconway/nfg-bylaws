@@ -8,7 +8,7 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \renewcommand{\headrulewidth}{0pt}  # Remove header line
-  - \cfoot{Revised 3/2008}
+  - \cfoot{Revised 3/2024}
 
 ---
 # CONSTITUTION OF THE NIAGARA FRONTIER GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY
@@ -155,7 +155,44 @@ Specifically, it should publish accounts of grotto activities, caves discovered 
 
 VI.  **Regional Membership**: This grotto shall be a member of the Mid-Appalachian Region and the Northeastern Regional Organization of the N.S.S. and shall contribute to the cave surveys of those organizations.
 
-VII.  **Proposed Amendments**: Amendments to the by-laws passed by the Executive Committee shall be presented to the membership at the next regular meeting, for their consideration.
+VII. **Misconduct and Harassment**: Members may be admonished, suspended from certain privileges, or expelled from the Grotto for any of the following reasons:
+
+* Willful misuse of Grotto property or facilities.
+* Willful disregard for the safety of themselves and/or others while participating in a Grotto activity.
+* Violation of the Grotto’s Anti-Harassment Policy.
+
+
+VIII.  **Proposed Amendments**: Amendments to the by-laws passed by the Executive Committee shall be presented to the membership at the next regular meeting, for their consideration.
 Regular voting rules shall apply for amendments.
 
-VIII. **Date of Effect**: These by-laws shall become effective upon approval by both the Niagara Frontier Grotto and the National Speleological Society.
+IX. **Date of Effect**: These by-laws shall become effective upon approval by both the Niagara Frontier Grotto and the National Speleological Society.
+
+\newpage
+
+# Anti-Harassment Policy
+\vspace{12pt}
+
+The Niagara Frontier Grotto of the National Speleological Society is committed to a friendly environment that is harassment-free for all volunteers and members.
+
+Intimidating, humiliating or sabotaging others in this organization will not be tolerated. Unlawful harassment based on protected categories is a form of discrimination. Federal, state, and local law forbids discrimination. Discrimination categories include but not limited to the following:
+
+* Race
+* Ethnicity
+* Age
+* Sex
+* Sexual Orientation
+* Disability
+* Gender Identity
+* Gender Expression
+* Familial Status
+* Pregnancy
+* Genetic Information
+* Religious Creed
+* National Origin or Ancestry
+* Medical Condition
+* Military Status / Veteran Status
+* Marital Status
+
+Sexual harassment is defined as unwelcomed sexual advances to include sexual favors, quid pro quo, verbal or physical conduct of a sexual nature, or creating a hostile environment. Examples of these include a) submission to such conduct is made either explicitly or implicitly a term or condition of an individual’s participation when b) submission to or rejection of such conduct by an individual is used as the basis for decisions affecting such individual, or c) such conduct has the purpose or effect of unreasonably interfering with an individual’s performance or creating an intimidating, hostile or offensive environment. Sexual harassment may include a range of subtle and not-so-subtle behaviors and may involve individuals of the same or different gender. These behaviors may include unwanted sexual advances or requests for sexual favors; sexual jokes and innuendo; verbal abuse of a sexual nature; commentary about an individual’s body, sexual prowess or sexual deficiencies; leering, whistling or touching; insulting or obscene comments or gestures; display of sexually suggestive objects or pictures; and other physical, verbal or visual conduct of a sexual nature.
+
+Grotto members should report any behavior or incident they suspect may fall under this policy to the Board of Directors. The Board of Directors, minus any individuals associated with the behavior/incident (if applicable), will conduct a thorough investigation and act to remedy the situation. Violators of this policy may be relieved of all leadership duties and are subject to expulsion from the Grotto.
